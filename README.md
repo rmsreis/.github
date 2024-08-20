@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Roberto, a Research Assistant Professor with expertise in . I am actively involved in open-source development, education, and outreach. Currently, I am working on a variety of project at the intersection of AI, electron microscopy and quantum.
+I am Roberto, a Research Assistant Professor at the MSE Department of Northwestern University . I am actively involved in open-source development, education, and outreach. Currently, I am working on a variety of project at the intersection of AI, electron microscopy, and quantum algorithms.
 
 ## More About Me
 
